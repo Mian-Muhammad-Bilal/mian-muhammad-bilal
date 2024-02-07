@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently <i><b>studying cyber</b></i> security at<a href="https://www.umt.edu.pk/" target="_blank">UMT</a>
+🔭 I’m currently studying<i><b> cyber security</b></i> at<a href="https://www.umt.edu.pk/" target="_blank"> UMT</a>
 
 
 ## 🌐 Socials:
