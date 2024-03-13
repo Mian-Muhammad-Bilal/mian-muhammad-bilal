@@ -35,7 +35,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mian-Muhammad-Bilal/workflow/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Mian-Muhammad-Bilal/mian-muhammad-bilal/blob/main/snake.yml" alt="Snake animation" />
+
 
 ###
 
