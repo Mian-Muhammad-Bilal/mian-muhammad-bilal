@@ -35,11 +35,6 @@
 
 ###
 
-<img src="https://github.com/Mian-Muhammad-Bilal/mian-muhammad-bilal/blob/main/snake.yml" alt="Snake animation" />
-
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Mian-Muhammad-Bilal/count.svg?"  />
 </div>
