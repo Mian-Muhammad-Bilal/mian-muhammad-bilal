@@ -35,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mian-Muhammad-Bilal/Mian-Muhammad-Bilal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mian-Muhammad-Bilal/workflow/snake.yml" alt="Snake animation" />
 
 ###
 
