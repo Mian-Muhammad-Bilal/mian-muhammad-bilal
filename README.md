@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Bilal and I'm a developer, from Lahore</h4>
+<h4 align="left">Hi 👋! My name is Bilal. <br> Aspiring cyber security engineer (Proficient in Python).</h4>
 
 ###
 
