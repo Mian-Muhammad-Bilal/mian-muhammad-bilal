@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, Bilal here.<br>Aspiring cyber security engineer (Proficient in Python & c++).<br>I’m looking for help with game development.<br>Ask me about Anything :)
 
 ###
